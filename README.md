@@ -1,0 +1,2 @@
+# leetCodeByPython
+用python刷leetCode初级题目
