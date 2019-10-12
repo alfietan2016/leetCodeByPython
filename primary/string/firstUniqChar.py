@@ -24,8 +24,6 @@ def firstUniqChar(s):
             return i
     return -1
 
-
-
 if __name__ == '__main__':
     s1 = "leetcode"
     s2 = "loveleetcode"
